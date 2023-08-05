@@ -2,8 +2,6 @@ Welcome to my GitHub! I'm a self-taught front-end developer, fueled by an insati
 
 My learning journey is fueled by various platforms like FreeCodeCamp, YouTube, and Udemy. Additionally, I believe in the power of books for in-depth understanding and social networks for collaborative learning. These resources have helped me gain a broad understanding of front-end development and I am always looking for new resources to continue growing.
 
-As I continue to learn and grow as a developer, I am currently focusing on strengthening my JavaScript skills. I'm also taking part in the 100DaysOfCode challenge to maintain consistency and productivity in my learning process. I'm excited about the projects I'll be building and sharing here.
-
 Feel free to explore my repositories and reach out if you're interested in collaboration, or even just a chat about all things coding!
 
 
