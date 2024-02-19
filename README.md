@@ -1,8 +1,9 @@
-Welcome to my GitHub! I'm a self-taught front-end developer, fueled by an insatiable curiosity and the drive to build intuitive, user-friendly web experiences. Over the years, I've discovered that learning is a journey, not a destination. While I've come a long way since my journey began, I'm still expanding my skillset every day.
+Hello and welcome to my GitHub profile! By day, I'm an admin professional; by night, I dive into learning front-end development. 
+My journey in coding is driven by a mix of curiosity and the challenge of solving problems. I've dabbled with YouTube and Udemy but found myself stuck in tutorial hell. 
 
-My learning journey is fueled by various platforms like FreeCodeCamp, YouTube, and Udemy. Additionally, I believe in the power of books for in-depth understanding and social networks for collaborative learning. These resources have helped me gain a broad understanding of front-end development and I am always looking for new resources to continue growing.
+So, starting in 2024, I decided to tackle Frontend Mentor challenges head-on. Now, it's an adventure of trial, error, and ah-ha moments!
 
-Feel free to explore my repositories and reach out if you're interested in collaboration, or even just a chat about all things coding!
+Here you'll find projects that showcase my growth from following tutorials to actually doing the thing :)
 
 
 <!---
