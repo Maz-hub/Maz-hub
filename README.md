@@ -14,7 +14,7 @@ By day I work full-time in international sports logistics, and by night I’m co
 
 ### CS50 Full-Stack Certificate – Mid 2025
 
-**CS50X Final Project 📸 **  
+**CS50X Final Project 📸**  
 Proudly built [ribe.photo](https://ribe.photo/) — a portfolio site for a photographer friend. Fully responsive, modern, and styled from scratch. Built with Bootstrap, SCSS, Flask (Jinja), and hosted on Heroku.
 
 **CS50W Capstone 🥾: [Swiss Romande Hikes](https://capstone-jaq1.onrender.com)**  
