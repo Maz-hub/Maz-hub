@@ -7,28 +7,18 @@ By day I work full-time in international sports logistics, and by night I’m co
 - ⚛️ Currently learning React, JSX, and component logic
 - 🧪 Building small React apps (and rebuilding them!) to cement concepts
 - 🧠 Practicing developer thinking: breaking problems into steps and learning to reason through code
+- 🗂 I try to keep my learning structured: I write down concepts, revisit often, and ask "why does this work?"
+- 🌍 Based in Switzerland Swiss-Riviera, growing through frustration, curiosity, and stubborn consistency
 
 ---
 
-### 📸 Projects
+### CS50 Full-Stack Certificate – Mid 2025
 
-**CS50 Certificate – Mid 2025**  
-Proudly built [ribe.photo](https://ribe.photo/) — a portfolio site for a photographer friend. Fully responsive, modern, and styled from scratch.
+**CS50X Final Project 📸 **  
+Proudly built [ribe.photo](https://ribe.photo/) — a portfolio site for a photographer friend. Fully responsive, modern, and styled from scratch. Built with Bootstrap, SCSS, Flask (Jinja), and hosted on Heroku.
 
-- **Frontend:** Bootstrap 5 & SCSS for responsive design and styling  
-- **Backend:** Flask with Jinja for templating  
-- **Image Hosting:** Cloudinary  
-- **Deployment:** Heroku
-
-**Capstone Final Project: [Swiss Romande Hikes](https://capstone-jaq1.onrender.com)**  
-A personal hiking guide using real trail data, user comments, and interactive maps.
-
-- **Frontend:** Custom SCSS & JavaScript for filters and dynamic updates
-- **Backend:** Django models to manage trails, users, and comments
-- **Map & Weather:** Mapbox GL JS and Open-Meteo API integration
-
-🗂 I try to keep my learning structured: I write down concepts, revisit often, and always ask "why does this work?"  
-🌍 Based in Switzerland, growing through frustration, curiosity, and stubborn consistency
+**CS50W Capstone 🥾: [Swiss Romande Hikes](https://capstone-jaq1.onrender.com)**  
+A personal hiking guide using real trail data, user comments, and interactive maps. Built with Django, JavaScript, SCSS, Mapbox, and Open-Meteo API.
 
 ---
 
@@ -47,4 +37,5 @@ A personal hiking guide using real trail data, user comments, and interactive ma
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/maz007/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/maz007/)
+
