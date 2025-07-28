@@ -8,7 +8,7 @@ By day I work full-time in international sports federation, and by night I’m c
 - 🧪 Building small React apps (and rebuilding them!) to cement concepts
 - 🧠 Practicing developer thinking: breaking problems into steps and learning to reason through code
 - 🗂 I try to keep my learning structured: I write down concepts, revisit often, and ask "why does this work?"
-- 🌍 Based in Switzerland Swiss-Riviera, growing through frustration, curiosity, and stubborn consistency
+- 🌍 Based in Switzerland – Swiss Riviera, growing through frustration, curiosity, and stubborn consistency
 
 ---
 
@@ -44,6 +44,9 @@ A personal hiking guide using real trail data, user comments, and interactive ma
 ![GitHub Streak](https://streak-stats.demolab.com?user=Maz-hub&theme=tokyonight)
 
 _Streak stats will be visible soon — GitHub API is catching up!_
+
+![Maz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maz-hub&show_icons=true&theme=default)
+
 
 
 
