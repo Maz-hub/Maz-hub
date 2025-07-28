@@ -39,3 +39,19 @@ A personal hiking guide using real trail data, user comments, and interactive ma
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/maz007/)
 
+
+### 📈 GitHub Stats
+
+![Maz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maz-hub&show_icons=true&theme=default)
+
+### 🌟 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maz-hub&layout=compact&theme=default)
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Maz-hub&theme=default)
+
+
+
+
