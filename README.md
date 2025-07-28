@@ -46,8 +46,6 @@ A personal hiking guide using real trail data, user comments, and interactive ma
 _Streak stats will be visible soon — GitHub API is catching up!_
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maz-hub&layout=compact&theme=default)
-
 
 
 
