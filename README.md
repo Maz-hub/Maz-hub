@@ -50,7 +50,8 @@ A personal hiking guide using real trail data, user comments, and interactive ma
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Maz-hub&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maz-hub)
+
 
 
 
