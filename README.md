@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Maz
 
-I'm a self-taught front-end developer learning React — curious, visual, and learning by building.  
+I'm a self-taught front-end developer learning React => curious, visual, and learning by building.  
 By day I work full-time in international sports federation, and by night I’m coding my way into tech.
 
 - 🔄 Transitioning into tech with hands-on projects and self-paced learning
