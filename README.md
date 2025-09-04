@@ -44,7 +44,6 @@ A personal hiking guide using real trail data, user comments, and interactive ma
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Maz-hub&theme=tokyonight)
 
 
-![Maz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maz-hub&show_icons=true&theme=default)
 
 
 
