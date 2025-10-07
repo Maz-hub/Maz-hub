@@ -5,10 +5,10 @@ By day I work full-time in international sports federation, and by night I’m c
 
 - 🔄 Transitioning into tech with hands-on projects and self-paced learning
 - ⚛️ Currently learning React, JSX, and component logic
-- 🧪 Building small React apps (and rebuilding them!) to cement concepts
+- 🧪 Building small React apps to cement concepts
 - 🧠 Practicing developer thinking: breaking problems into steps and learning to reason through code
 - 🗂 I try to keep my learning structured: I write down concepts, revisit often, and ask "why does this work?"
-- 🌍 Based in Switzerland – Swiss Riviera, growing through frustration, curiosity, and stubborn consistency
+- 🌍 Based in Switzerland – Swiss Riviera, growing through frustration, curiosity, and consistency
 
 ---
 
